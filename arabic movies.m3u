@@ -172,21 +172,5 @@ http://cdn.playwire.com/15880/video-20140620-988614.mp4
 http://cdn.playwire.com/15880/video-20140624-1003167.mp4
 #EXTINF:-1,فيلم شمال يادنيا
 http://cdn.playwire.com/15880/video-20140629-1029790.mp4
-#EXTINF:-1,فيلم حسن ومرقص كامل بجودة HD
-http://flv.alarab.net:8080//flv/81606.flv?start=0
-#EXTINF:-1,فيلم هجوم منتصف الليل مصري
-http://flv.alarab.net:8080//flv/76585.flv?start=0
-#EXTINF:-1,الفيلم المغربي - أمواج قصيرة بجودة عالية
-http://flv.alarab.net:8080//flv/79349.flv?start=0
-#EXTINF:-1,فيلم فيلا 69 - 2013
-http://flv.alarab.net:8080//flv/79937.flv?start=0
-#EXTINF:-1,فيلم تاكسي البلد لبنان كامل
-http://flv.alarab.net:8080//flv/76253.flv?start=0
-#EXTINF:-1,فيلم الهاربتان مصري
-http://flv.alarab.net:8080//flv/76509.flv?start=0
-#EXTINF:-1,فيلم بي بي لبناني
-http://flv.alarab.net:8080//flv/76517.flv?start=0
-#EXTINF:-1,فيلم حلم عمر 2014
-http://flv.alarab.net:8080//flv/76547.flv?start=0
-#EXTINF:-1,بتوقيت القاهرة
-http://vod-movies.panet.co.il/Btoket-mas2r/1.flv
+#EXTINF:-1,فيلم 30 فبراير
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:10/27/102729.mp4
