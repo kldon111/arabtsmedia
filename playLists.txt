@@ -16,5 +16,6 @@
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/video%20clip.m3u", "name": "video clip"},
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/world%20cooking.m3u", "name": "world cooking"},
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/documentation.m3u", "name": "documentation"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/tsmedia.m3u", "name": "tsmedia"},
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/other.m3u", "name": "other"}
 ]
