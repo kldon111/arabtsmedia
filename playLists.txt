@@ -1,8 +1,20 @@
 [
-{"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/arabic%20movies.m3u", "name": "[COLOR yellow]bein sports full hd ubdate 20/07/2015[/COLOR]"},
-{"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/bein.sports.hd.m3u", "name": "[COLOR yellow]bein sports full hd ubdate 09/07/2015[/COLOR]"},
-{"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/araball.m3u", "name": "[COLOR red]arab all ubdate 09/07/2015[/COLOR]"},
-{"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/arabic.m3u", "name": "[COLOR yellow]arabic ubdate 09/07/2015[/COLOR]"},
-{"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/sportsmix.m3u", "name": "[COLOR yellow]sports mix ubdate 09/07/2015[/COLOR]"},
-{"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/world.m3u", "name": "[COLOR yellow]world tv ubdate 09/07/2015[/COLOR]"}
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/arabic%20movies.m3u", "name": "arabic movies"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/english%20movies.m3u", "name": "english movies"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/horror%20movies.m3u", "name": "horror movies"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/ramadan%20series%202015.m3u", "name": "ramadan series 2015"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/egyptian%20series.m3u", "name": "egyptian series"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/gulf%20series.m3u", "name": "gulf series"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/syrian%20series.m3u", "name": "syrian series"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/Jordan%20series.m3u", "name": "Jordan series"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/tv%20program.m3u", "name": "tv program"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/turki%20series.m3u", "name": "turki series"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/sports.m3u", "name": "sports"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/islamic.m3u", "name": "islamic"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/children%2Bcartoon.m3u", "name": "children+cartoon"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/tv%20channel.m3u", "name": "tv channel"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/video%20clip.m3u", "name": "video clip"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/world%20cooking.m3u", "name": "world cooking"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/documentation.m3u", "name": "documentation"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/other.m3u", "name": "other"}
 ]
