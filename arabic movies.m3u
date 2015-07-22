@@ -176,3 +176,5 @@ http://cdn.playwire.com/15880/video-20140629-1029790.mp4
 rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:10/27/102729.mp4
 #EXTINF:-1,كرم الكينج
 rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:98/24/98249.mp4
+#EXTINF:-1,الحفلة
+http://vod-movies.panet.co.il/el7fla/1.flv
