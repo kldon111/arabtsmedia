@@ -176,7 +176,7 @@ http://cdn.playwire.com/15880/video-20140629-1029790.mp4
 rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:10/27/102729.mp4
 #EXTINF:-1,كرم الكينج
 rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:98/24/98249.mp4
-#EXTINF:-1,الحفلة
-http://vod-movies.panet.co.il/el7fla/1.flv
 #EXTINF:-1,فيلم شد اجزاء بجودة CAM
-http://cdn61.my.mail.ru/v/55203823.mp4?sign=79fc72aaaace2c2e2cbcced65faff27b10a08442&slave[]=s%3Ahttp%3A%2F%2F127.0.0.1%3A5010%2F55203823-v.mp4&p=f&expire_at=1437555600&touch=1437471855&region=30
+http://flv8.moevideo.net/flv2/OmL6iq5pUyC-i1_PoX1aJw==/api__tVL0gjqo5/33899441_324247440default/55315.594030456cd2beb38f2926c0c399/d471856a013347d7b2dd5ca27f50e0c7_324247440_shad_agza2.cam.mp4.flv?vtype=1&ref=el7l.co
+#EXTINF:-1,فيلم شد اجزاء بجودة CAM
+http://moevideo.net/getit/Untitled%5B1500k%5D.mp4
