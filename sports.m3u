@@ -21,7 +21,7 @@ http://localhost:4500/channel.flv?server=38.99.146.71&channel=BlueNile_Med&port=
 #EXTINF:0,AlShrooq tv
 http://localhost:4500/channel.flv?server=38.99.146.36&channel=AlShrooq_High&port=2077&mode=3&user=11141&session=e712077219fe8604a87b750843af2b70fae70e4f650472ab8d9ff115223bf070a299017ce29bf1aa&v=1549980334
 #EXTINF:-1,tayba tv 
-http://ukk.live.net.sa:1935/live/taybatv/chunklist_w522972508.m3u8
+http://tayba.live.net.sa:1935/live/taybatv/chunklist_w1877212851.m3u8
 BEIN SPORTS 1 
 http://45.32.1.184:9500/serversdzip/1234567/1028.ch 
 BEIN SPORTS 2 
