@@ -4,6 +4,10 @@
 https://www.youtube.com/watch?v=P6CobLkKuEU
 #EXTINF:-1, [COLOR green] --Updated from www.dreamoem.com$www.tunisia-sat.com--[/COLOR]  
 https://www.youtube.com/channel/UCE8HvYEF1LB61_nG2g_6xKQ
+#EXTINF:0,beIN SPORTS 1HD
+rtmp://$OPT:rtmp-raw=rtmp://195.228.75.97/atvliveedge/_definst_/v=1549809971 playpath=rtmp://5.189.128.141:1991/live/fuckmok1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_1&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:0,beIN SPORTS 2HD
+rtmp://195.228.75.97/atvliveedge/_definst_/v=1549809971 playpath=rtmp://5.189.128.141:1991/live/fuckmok1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_1&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
 #EXTINF:-1,bein.sports.hd  
 https://www.youtube.com/channel/UCE8HvYEF1LB61_nG2g_6xKQ
 BEIN SPORTS 1 
