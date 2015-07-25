@@ -8,6 +8,18 @@ https://www.youtube.com/channel/UCE8HvYEF1LB61_nG2g_6xKQ
 rtmp://$OPT:rtmp-raw=rtmp://195.228.75.97/atvliveedge/_definst_/v=1549809971 rtmp://195.228.75.97/atvliveedge/_definst_/v=1549809971 playpath=rtmp://5.189.128.141:1991/live/fuckmok1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_1&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
 #EXTINF:0,beIN SPORTS 2HD
 rtmp://$OPT:rtmp-raw=rtmp://195.228.75.97/atvliveedge/_definst_/v=1549809971 playpath=rtmp://5.189.128.141:1991/live/fuckmok1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_1&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:0,Tayba TV Live
+http://tayba.live.net.sa:1935/live/taybatv/chunklist_w1302855392.m3u8
+#EXTINF:0,Omdurman TV Sudan
+http://localhost:4500/channel.flv?server=38.99.146.71&channel=OmDurman_Med&port=2077&mode=3&user=elahmad.com&session=b7ca5ec68aa5aadb491f0410128e7447b60f92098b525c0cb130eb063ba327d3a299017ce29bf1aa&v=1549980334
+#EXTINF:0,sudan tv
+http://localhost:4500/channel.flv?server=38.99.146.71&channel=Sudan_Med&port=2077&mode=3&user=elahmad.com&session=04fea8287592dc78a37265ddbb53aefcbb0061347978b00d21aea240cf93930ba299017ce29bf1aa&v=1549980334
+#EXTINF:0,tayba tv
+http://localhost:4500/channel.flv?server=38.99.146.71&channel=Tayba_Med&port=2077&mode=3&user=elahmad.com&session=e5186aa151b9ad017384f08467892b3b6ff92832de577be5e1d7c7e7226d941ba299017ce29bf1aa&v=1549980334
+#EXTINF:0,Blue Nile tv
+http://localhost:4500/channel.flv?server=38.99.146.71&channel=BlueNile_Med&port=2077&mode=3&user=elahmad.com&session=4b54af896e6f262ba9405b6dffc1d76388ee3693830b27183bd935384949a956a299017ce29bf1aa&v=1549980334
+#EXTINF:0,AlShrooq tv
+http://localhost:4500/channel.flv?server=38.99.146.36&channel=AlShrooq_High&port=2077&mode=3&user=11141&session=e712077219fe8604a87b750843af2b70fae70e4f650472ab8d9ff115223bf070a299017ce29bf1aa&v=1549980334
 #EXTINF:-1,bein.sports.hd  
 https://www.youtube.com/channel/UCE8HvYEF1LB61_nG2g_6xKQ
 BEIN SPORTS 1 
