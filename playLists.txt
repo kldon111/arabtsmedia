@@ -9,6 +9,7 @@
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/Jordan%20series.m3u", "name": "Jordan series"},
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/tv%20program.m3u", "name": "tv program"},
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/turki%20series.m3u", "name": "turki series"},
+{"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/turkey%20movies.m3u", "name": "turki movies"},
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/sports.m3u", "name": "sports"},
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/islamic.m3u", "name": "islamic"},
 {"url": "https://raw.githubusercontent.com/kldon111/arabtsmedia/master/children%2Bcartoon.m3u", "name": "children+cartoon"},
