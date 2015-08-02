@@ -54,12 +54,12 @@ http://77.245.70.42/l7y2wnyhdrmjvkrxw45caeqhirqivrn5syonlgyx5wpuztc34eddkg7gefnq
 http://62.210.104.57/l7y2wuihdrmjvkrxw45cadk6luucwvh4htaejq5qg3pmsbcz4wnxal7kggqa/v.flv
 #EXTINF:-1, Seytan-I Racim 2013
 http://62.210.104.57/l7y2r4aedrmjvkrxw45cadkhamwd2acx7fvoeobp6j57d57akdf4imvhqexa/v.flv
-#EXTINF:-1, ماذا تبقى
-http://vod-movies.panet.co.il/matha-tbqa/1.flv
+#EXTINF:-1, الضمير 
+rtmp://vod202.sonara.net/vod/media/mp4:/hd2/aflam/aldameer.mp4
 #EXTINF:-1, القدر
 http://flv.alarab.net:8080//flv/20793.flv?start=0
 #EXTINF:-1, الماء و النار
-http://vod-movies.panet.co.il/Elm2-wlnar/1.flv
+rtmp://vod201.sonara.net/vod/media/mp4:/hd3/aflam/Su_ve_Ates.mp4
 #EXTINF:-1, ماذا بعد
 http://vod-movies.panet.co.il/ya-sonra/1.flv
 #EXTINF:-1, قصر الحب
