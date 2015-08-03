@@ -12,12 +12,12 @@ http://cdn.playwire.com/15448/video-20140921-1352622.mp4
 http://cdn.playwire.com/15448/video-20140928-1379170.mp4
 #EXTINF:0,الآغا الصغير 2 - الحلقة 4
 http://cdn.playwire.com/15448/video-20141005-1403323.mp4
-#EXTINF:0,beINSport 2 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1159.ch
-#EXTINF:0,beIN Sports 3 HD
-http://45.32.1.184:9500/serversdzip/1234567/1030.ch
-#EXTINF:0,beINSport 3 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1160.ch
+#EXTINF:0,KARAGÜL 70. Bölüm - (Part 1
+rtmp://foxtv-v.mncdn.com:80/v_foxtv_vod//nv3gVU/videos/HDvideos/344/Karagul/bolumler/70/mp4:karagul70.mp4?token=08252a082eb4b9e807049b0ba3d736cfb77465650717c3de
+#EXTINF:0,KARAGÜL 70. Bölüm - (Part 2)
+rtmp://foxtv-v.mncdn.com:80/v_foxtv_vod//nv3gVU/videos/HDvideos/344/Karagul/bolumler/70/mp4:karagul70.mp4?token=0a8296f8766f929b9af993927b7f8a7fb41de024c6c5b353
+#EXTINF:0,KARAGÜL 70. Bölüm - (Part 3)
+rtmp://foxtv-v.mncdn.com:80/v_foxtv_vod//nv3gVU/videos/HDvideos/344/Karagul/bolumler/70/mp4:karagul70.mp4?token=84259169b2913d227ba66ff5b3d464bb06253ecc7c99921f
 #EXTINF:0,beIN Sports 4 HD
 http://45.32.1.184:9500/serversdzip/1234567/1031.ch
 #EXTINF:0,beINSport 4 HD 
