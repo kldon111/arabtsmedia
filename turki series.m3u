@@ -27,29 +27,29 @@ rtmp://vod.shahidlive.com:80/vod/_definst_//flv:/90/66/90664.flv
 #EXTINF:-1,حطام - الحلقه 2
 rtmp://vod.shahidlive.com:80/vod/_definst_//flv:/90/93/90935.flv
 #EXTINF:-1,حطام - الحلقه 3
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
+rtmp://vod.shahidlive.com:80/vod/_definst_//flv:/91/19/91194.flv
 #EXTINF:-1,حطام - الحلقه 4
-http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
+http://r5---sn-5hn7ym7r.c.2mdn.net/videoplayback/id/f7a5e898e9cc88ad/itag/34/source/doubleclick_dmm/ratebypass/yes/ip/92.96.54.204/ipbits/0/expire/3583177988/sparams/expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,ratebypass,source,usequic/signature/1202ED66D0AD6407F8202991728724B6E0824293.4488BF4DD30F07F9D5FF87581E1B312759EFC1F2/key/cms1/pl/20/redirect_counter/1/req_id/5e87267877ffa3ee/cms_redirect/yes/mm/30/mn/sn-5hn7ym7r/ms/nxu/mt/1438783744/mv/m/nh/EAk/usequic/no?file=file.flv
 #EXTINF:-1,حطام - الحلقه 5
-http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:91/81/91815.mp4
 #EXTINF:-1,حطام - الحلقه 6
-http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:92/17/92176.mp4
 #EXTINF:-1,حطام - الحلقه 7
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:92/47/92474.mp4
 #EXTINF:-1,حطام - الحلقه 8
-http://45.32.1.184:9500/serversdzip/1234567/249.ch
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:92/73/92731.mp4
 #EXTINF:0,حطام - الحلقه 9
-http://45.32.1.184:9500/serversdzip/1234567/1029.ch
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:93/07/93079.mp4
 #EXTINF:0,حطام - الحلقه 10
-http://45.32.1.184:9500/serversdzip/1234567/1159.ch
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:93/29/93292.mp4
 #EXTINF:0,حطام - الحلقه 11
-http://45.32.1.184:9500/serversdzip/1234567/1030.ch
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:93/54/93541.mp4
 #EXTINF:0,حطام - الحلقه 12
-http://45.32.1.184:9500/serversdzip/1234567/1160.ch
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:93/87/93879.mp4
 #EXTINF:0,حطام - الحلقه 13
-http://45.32.1.184:9500/serversdzip/1234567/1031.ch
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:94/27/94272.mp4
 #EXTINF:0,حطام - الحلقه 14
-http://45.32.1.184:9500/serversdzip/1234567/1161.ch
+rtmp://vod.shahidlive.com:80/vod/_definst_//mp4:94/58/94585.mp4
 #EXTINF:-1,حطام - الحلقه 15
 http://45.32.1.184:9500/serversdzip/1234567/253.ch
 #EXTINF:0,حطام - الحلقه 16
